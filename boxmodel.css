@@ -1,0 +1,49 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
+
+body{ font-size: 13px;
+color: #058c8e;
+background-color: #edf4c7;
+font-family: 'monda',verdana;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+}
+
+h1, h2{text-transform: uppercase;
+}
+
+nav {background-color: #a48d03;
+  font-weight: bold;
+}
+
+header img{display: block;
+float: left;}
+
+header {float: none;
+}
+p.lowercase{text.transform: lowercase;
+}
+
+nav li{display: inline;
+padding-left: 1em;}
+
+nav ul {text-align: center;}
+
+nav li a {text-decoration: none;
+font-size: 1.5em;}
+
+.foundation {border: 2px solid gold; float:inline;
+height: 200px;
+padding-left: 25em;
+background-image: url(http://theartmad.com/wp-content/uploads/2015/02/Geometric-Triangle-Wallpaper-1.png)}
+
+br.nofloat{
+}
+
+div.image{float: left;
+  border: 1px solid:red;
+  padding: right;
+}
